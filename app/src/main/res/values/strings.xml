@@ -1,0 +1,48 @@
+<resources>
+    <string name="first_fragment_label" />
+    <string name="second_fragment_label" />
+    <string name="app_name">APP1</string>
+    <string name="tv_first_name">Imię:</string>
+    <string name="tv_last_name">Nazwisko:</string>
+    <string name="tv_number_grades">Liczba ocen:</string>
+    <string name="tv_first_name_error_text">Imię nie może być puste</string>
+    <string name="tv_last_name_error_text">Nazwisko nie może być puste</string>
+    <string name="et_number_grades_text">Liczba ocen nie może być pusta</string>
+    <string name="et_number_grades_text2">Liczba ocen musi być od 5 do 15</string>
+    <string name="et_number_grades_text3">Nie prawidlowa liczba ocen</string>
+    <string name="btn_calculate_avg_text">Policz średnią</string>
+    <string name="write_name">Wpisz imię</string>
+    <string name="write_surname">Wpisz nazwisko</string>
+    <string name="write_grade">Wpisz liczbę ocen (5-15)</string>
+    <string name="main_btn">Wpisz</string>
+    <string name="fail">Tym razem mi nie poszło"</string>
+    <string name="success">Super =)</string>
+    <string name="success_end">Gratulacje! Otrzymujesz zaliczenie!</string>
+    <string name="fail_end">Wysyłam podanie o zaliczenie warunkowe</string>
+    <string name="result_btn" />
+    <string name="subject">Subject</string>
+    <string name="grade_2">2</string>
+    <string name="grade_3">3</string>
+    <string name="grade_4">4</string>
+    <string name="grade_5">5</string>
+    <string name="avg">Średnia ocen:</string>
+
+    <string-array name="nazwy_przedmiotow_tab">
+        <item>Fiz.</item>
+        <item>Mat.</item>
+        <item>El.</item>
+        <item>TC</item>
+        <item>PP</item>
+        <item>Java</item>
+        <item>TPI</item>
+        <item>C</item>
+        <item>C++</item>
+        <item>ASD</item>
+        <item>MN</item>
+        <item>PRiR</item>
+        <item>ISM</item>
+        <item>PN</item>
+        <item>NI</item>
+    </string-array>
+
+</resources>
